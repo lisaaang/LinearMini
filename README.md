@@ -1,2 +1,2 @@
 # LinearMini
-Linear regression mini project
+Linear regression mini project for Springboard
